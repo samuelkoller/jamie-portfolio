@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "James Robison",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "While I have dabbled in various languages and frameworks for a decade, I have landed on JavaScript and its libraries and frameworks like React, Next.js, jQuery, Redux, and Angular as my go-to frontend technology. I am also very skilled in React Native, Expo, Flutter, Ionic for mobile app development and also data visualization libraries and frameworks like D3.js, Recharts, ChartJS, WebGL, etc. ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
