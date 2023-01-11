@@ -93,7 +93,7 @@ const projects = [
     id: "project4",
     name: "K-LOVE",
     skills: ["React, React Native, Node.js, Firebase"],
-    url: "https://www.sendlane.com/",
+    url: "https://www.klove.com/",
   },
   {
     // Add image in './styles/images.css' in #project5
