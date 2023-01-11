@@ -34,7 +34,7 @@ const skillsBar = [
   {
     name: "CSS3",
     // svg: '',
-    faClass: "fab fa-css3",
+//     faClass: "fab fa-css3",
   },
   {
     name: "Javascript",
