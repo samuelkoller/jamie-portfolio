@@ -85,44 +85,44 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "SeatGeek",
+    skills: ["MERN stack, MUI, GraphQL"],
+    url: "https://seatgeek.com/",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "On",
+    skills: ["Contentful, React, Gatsby.js, Stripe"],
+    url: "https://www.on-running.com/",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Sendlane",
+    skills: ["React, Next.js, Node.js, NestJS, MongoDB"],
+    url: "https://www.sendlane.com/",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "K-LOVE",
+    skills: ["React, React Native, Node.js, Firebase"],
+    url: "https://www.sendlane.com/",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Walgreens",
+    skills: ["React, Next.js, Redux, MUI, CSS"],
+    url: "https://www.walgreens.com/",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "iFit",
+    skills: ["React, Next.js, Node.js, AWS"],
+    url: "https://www.ifit.com/",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
