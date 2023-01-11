@@ -166,7 +166,7 @@ const social = {
   // facebook: "https://facebook.com",
   twitter: "https://twitter.com/JamieRo41087655",
   // instagram: "https://instagram.com",
-  linkedin: "https://linkedin.comin/in/jamiefrobison/",
+  linkedin: "https://linkedin.com/in/jamiefrobison/",
 };
 // Dont change anything here
 export {
