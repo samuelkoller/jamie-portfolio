@@ -6,38 +6,38 @@
 /* Projects Photo */
 .project1{
     background-image: url('https://thumbs2.imgbox.com/08/ea/7yVouVqi_t.jpg');
-    cursor: none;    
+    cursor: pointer;    
 }
 .project2{
     background-image: url('https://thumbs2.imgbox.com/fa/61/adgkbH6F_t.jpg');
-    cursor: none;
+    cursor: pointer;
 }
 .project3{
     background-image: url('https://thumbs2.imgbox.com/9f/cc/BYLTyDTe_t.jpg');
-    cursor: none;
+    cursor: pointer;
 }
 .project4{
     background-image: url('https://thumbs2.imgbox.com/32/d8/EuRZYWQe_t.jpg');
-    cursor: none;
+    cursor: pointer;
 }
 .project5{
     background-image: url('https://thumbs2.imgbox.com/45/4c/wTyk151D_t.jpg');
-    cursor: none;
+    cursor: pointer;
 }
 .project6{
     background-image: url('https://thumbs2.imgbox.com/f5/fe/nZev4Wmy_t.jpg');
-    cursor: none;
+    cursor: pointer;
 }
 /* Miscelaneous Activities photo */
 .misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    background-image: url('https://thumbs2.imgbox.com/e1/e3/WVkQWnaI_t.jpg');
     cursor: none;
 }
 .misc2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    background-image: url('https://thumbs2.imgbox.com/2f/c2/OkQER2Cw_t.jpg');
     cursor: none;
 }
 .misc3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    background-image: url('https://thumbs2.imgbox.com/a1/76/PpsnnBkz_t.jpg');
     cursor: none;
 }
