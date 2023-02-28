@@ -92,7 +92,7 @@ const projects = [
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "K-LOVE",
-    skills: ["React, React Native, Node.js, Firebase"],
+    skills: ["React, Node.js, Tailwind CSS, Firebase"],
     url: "https://www.klove.com/",
   },
   {
@@ -108,6 +108,13 @@ const projects = [
     name: "iFit",
     skills: ["React, Next.js, Node.js, AWS"],
     url: "https://www.ifit.com/",
+  },
+  {
+    // Add image in './styles/images.css' in #project7
+    id: "project7",
+    name: "Game Time",
+    skills: ["React Native, React, Java, Swift, Firebase"],
+    url: "https://play.google.com/store/apps/details?id=com.internationalschool.gametime",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
