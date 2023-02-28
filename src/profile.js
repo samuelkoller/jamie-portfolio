@@ -116,6 +116,20 @@ const projects = [
     skills: ["React Native, React, Java, Swift, Firebase"],
     url: "https://play.google.com/store/apps/details?id=com.internationalschool.gametime",
   },
+  {
+    // Add image in './styles/images.css' in #project8
+    id: "project8",
+    name: "Transportation Mobile",
+    skills: ["Flutter, Swift, Kotlin, Delphi, Expo"],
+    url: "https://apps.apple.com/app/transportation-mobile-user/id1489709723",
+  },
+  {
+    // Add image in './styles/images.css' in #project9
+    id: "project9",
+    name: "Fitness Action Now",
+    skills: ["Flutter, Swift, Kotlin, Delphi, Expo"],
+    url: "https://apps.apple.com/app/transportation-mobile-user/id1489709723",
+  },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
