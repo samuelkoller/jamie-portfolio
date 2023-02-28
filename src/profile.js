@@ -127,8 +127,8 @@ const projects = [
     // Add image in './styles/images.css' in #project9
     id: "project9",
     name: "Fitness Action Now",
-    skills: ["Flutter, Swift, Kotlin, Delphi, Expo"],
-    url: "https://apps.apple.com/app/transportation-mobile-user/id1489709723",
+    skills: ["Ionic, Angular 10, JavaScript, TypeScript, Unity"],
+    url: "https://apps.apple.com/app/fitness-action-now/id1397770312",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
