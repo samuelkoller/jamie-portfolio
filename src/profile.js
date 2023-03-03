@@ -31,6 +31,11 @@ const skillsBar = [
     faClass: "fab fa-php",
   },
   {
+    name: "WordPress",
+    // svg: '',
+    faClass: "fab fa-wordpress",
+  },
+  {
     name: "Laravel",
     // svg: '',
     faClass: "fab fa-laravel",
@@ -41,14 +46,29 @@ const skillsBar = [
     faClass: "fab fa-react",
   },
   {
-    name: "Node",
+    name: "Vue",
     // svg: '',
-    faClass: "fab fa-node",
+    faClass: "fab fa-vuejs",
+  },
+  {
+    name: "Bootstrap",
+    // svg: '',
+    faClass: "fab fa-bootstrap",
+  },
+  {
+    name: "JavaScript",
+    // svg: '',
+    faClass: "fab fa-js",
   },
   {
     name: "Database",
     // svg: '',
     faClass: "fas fa-database",
+  },
+  {
+    name: "Github",
+    // svg: '',
+    faClass: "fab fa-github",
   },
   {
     name: "AWS",
