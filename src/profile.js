@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "While I have dabbled in various languages and frameworks for a decade, I have landed on JavaScript and its libraries and frameworks like React, Next.js, jQuery, Redux, and Angular as my go-to frontend technology. I am also very skilled in React Native, Expo, Flutter, Ionic for mobile app development and also data visualization libraries and frameworks like D3.js, Recharts, ChartJS, WebGL, etc. ",
+    "While I have dabbled in various languages and frameworks for a decade, I have landed on software development and mastered PHP, Laravel, and Wordpress. I also mastered various JavaScript frameworks like React, Vue.js, and Angular as my go-to frontend technology. I'm hardworking, self-driven, and I develop end-products that my clients are beyond happy with.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
