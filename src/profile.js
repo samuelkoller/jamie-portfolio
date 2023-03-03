@@ -42,6 +42,11 @@ const skillsBar = [
     faClass: "fab fa-js",
   },
   {
+    name: "Laravel",
+    // svg: '',
+    faClass: "fab fa-laravel",
+  },
+  {
     name: "React",
     // svg: '',
     faClass: "fab fa-react",
@@ -70,37 +75,37 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "SeatGeek",
-    skills: ["MERN stack, MUI, GraphQL"],
-    url: "https://seatgeek.com/",
+    name: "AutoCrit",
+    skills: ["WordPress, Laravel, PHP, GraphQL"],
+    url: "https://www.autocrit.com/",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "On",
-    skills: ["Contentful, React, Gatsby.js, Stripe"],
-    url: "https://www.on-running.com/",
+    name: "LEARFIELD",
+    skills: ["WordPress, Core PHP, Plugins, API"],
+    url: "https://www.learfield.com/",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Sendlane",
-    skills: ["React, Next.js, Node.js, NestJS, MongoDB"],
-    url: "https://www.sendlane.com/",
+    name: "Schoox",
+    skills: ["WordPress, LMS, BuddyBoss, PHP, cPanel"],
+    url: "https://www.schoox.com/",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "K-LOVE",
-    skills: ["React, Node.js, Tailwind CSS, Firebase"],
-    url: "https://www.klove.com/",
+    name: "Perimeter",
+    skills: ["Laravel, Vue.js, PHP, GraphQL, Firebase"],
+    url: "https://www.perimeter.org/",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Walgreens",
-    skills: ["React, Next.js, Redux, MUI, CSS"],
-    url: "https://www.walgreens.com/",
+    name: "GoCollect",
+    skills: ["Laravel, Livewire, Alpine.js, Tailwind CSS"],
+    url: "https://gocollect.com/",
   },
   {
     // Add image in './styles/images.css' in #project6
@@ -108,27 +113,6 @@ const projects = [
     name: "iFit",
     skills: ["React, Next.js, Node.js, AWS"],
     url: "https://www.ifit.com/",
-  },
-  {
-    // Add image in './styles/images.css' in #project7
-    id: "project7",
-    name: "Game Time",
-    skills: ["React Native, React, Java, Swift, Firebase"],
-    url: "https://play.google.com/store/apps/details?id=com.internationalschool.gametime",
-  },
-  {
-    // Add image in './styles/images.css' in #project8
-    id: "project8",
-    name: "Transportation Mobile",
-    skills: ["Flutter, Swift, Kotlin, Delphi, Expo"],
-    url: "https://apps.apple.com/app/transportation-mobile-user/id1489709723",
-  },
-  {
-    // Add image in './styles/images.css' in #project9
-    id: "project9",
-    name: "Fitness Action Now",
-    skills: ["Ionic, Angular 10, JavaScript, TypeScript, Unity"],
-    url: "https://apps.apple.com/app/fitness-action-now/id1397770312",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
