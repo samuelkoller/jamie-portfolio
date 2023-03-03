@@ -28,7 +28,7 @@ const skillsBar = [
   {
     name: "PHP",
     // svg: '',
-    faClass: "fa fa-php",
+    faClass: "fab fa-php",
   },
   {
     name: "Laravel",
